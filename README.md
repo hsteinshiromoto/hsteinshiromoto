@@ -9,8 +9,8 @@ Welcome to my portfolio. You can check out these ones:
 If you would like to support these projects, you can:
 
 * Contribute to them.
-* [Buy me a coffee.](https://www.buymeacoffee.com/hsteinshiromoto).
-* [Tip me on Paypal.](https://www.paypal.me/hsteinshiromoto)
+* [![Donate to this project using Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/hsteinshiromoto)
+* [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/hsteinshiromoto)
 
 <!--
 **hsteinshiromoto/hsteinshiromoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
