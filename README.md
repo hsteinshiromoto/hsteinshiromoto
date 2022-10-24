@@ -1,3 +1,6 @@
+[![Linkedin: hsteinshiromoto](https://img.shields.io/badge/-hsteinshiromoto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hsteinshiromoto/)](https://www.linkedin.com/in/hsteinshiromoto/)
+[![GitHub hsteinshiromoto](https://img.shields.io/github/followers/hsteinshiromoto?label=follow&style=social)](https://github.com/hsteinshiromoto)
+
 ## Hi there 👋
 
 Welcome to my portfolio. You can check out these projects:
