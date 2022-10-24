@@ -1,5 +1,6 @@
 [![Linkedin: hsteinshiromoto](https://img.shields.io/badge/-hsteinshiromoto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hsteinshiromoto/)](https://www.linkedin.com/in/hsteinshiromoto/)
 [![GitHub hsteinshiromoto](https://img.shields.io/github/followers/hsteinshiromoto?label=follow&style=social)](https://github.com/hsteinshiromoto)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hsteinshiromoto.hsteinshiromoto)
 
 ## Hi there 👋
 
