@@ -8,9 +8,9 @@ Welcome to my portfolio. You can check out these projects:
 
 * [Cartorio](http://www.github.com/hsteinshiromoto/cartorio): A wrapper on the logging module for Python that provides a simple and easy-to-use interface for logging.
   
-* [Datatoolkit](https://github.com/hsteinshiromoto/datatoolkit): A collection of tools for visualization and data processing for exploratory data analysis. 
+* [DataToolkit](https://github.com/hsteinshiromoto/datatoolkit): A collection of tools for visualization and data processing for exploratory data analysis. 
   
-* [Tufe](https://github.com/hsteinshiromoto/tufte): A Tufte-inspired style of data plotting. 
+* [Tufte](https://github.com/hsteinshiromoto/tufte): A Tufte-inspired style of data plotting. 
 
 * [TeX.Beamer](https://github.com/hsteinshiromoto/tex.beamer): A  Presentation Template for XeLaTeX.
 
