@@ -8,7 +8,7 @@ Welcome to my portfolio. You can check out these projects:
 
 - [Cartorio](http://www.github.com/hsteinshiromoto/cartorio): A wrapper on the logging module for Python that provides a simple and easy-to-use interface for logging.
 
-- [Python.template](https://github.com/hsteinshiromoto/python.template): A template for new Python projects with containerization. 
+- [template.py](https://github.com/hsteinshiromoto/template.py): A template for new Python projects with containerization. 
   
 - [DataToolkit](https://github.com/hsteinshiromoto/datatoolkit): A collection of tools for visualization and data processing for exploratory data analysis. 
   
