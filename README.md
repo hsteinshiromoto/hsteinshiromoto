@@ -4,7 +4,9 @@
 
 ## Hi there 👋
 
-Welcome to my portfolio. You can check out these projects:
+Welcome to my portfolio. You can check my projects below.
+
+### Python Projects
 
 - [Cartorio](http://www.github.com/hsteinshiromoto/cartorio): A wrapper on the logging module for Python that provides a simple and easy-to-use interface for logging.
 
@@ -14,7 +16,17 @@ Welcome to my portfolio. You can check out these projects:
   
 - [Tufte](https://github.com/hsteinshiromoto/tufte): A Tufte-inspired style of data plotting. 
 
+### LaTeX Projects
+
 - [TeX.Beamer](https://github.com/hsteinshiromoto/tex.beamer): A  Presentation Template for XeLaTeX.
+
+### Note Projects
+
+- [Math.MD](https://github.com/hsteinshiromoto/math.md): My notes about pure and applied mathematics, and statistics.
+
+- [ML.MD](https://github.com/hsteinshiromoto/ml.md): My notes about machine learning.
+
+- [Zettelkasten](https://github.com/hsteinshiromoto/zettelkasten): My notes about everything else.
 
 ## How to support
 
